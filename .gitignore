@@ -1,0 +1,12 @@
+.vscode/
+build/
+zig-cache/
+
+# random files i should probably put into a build or config directory
+TEST.BIN
+testfloppy
+zigostest.code-workspace
+baseconfig
+bx_enh_dbg.ini
+main_strip.o
+lsp/
